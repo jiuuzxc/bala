@@ -14,7 +14,8 @@
 		"recommendations": [
 			"redhat.java",
 			"vscjava.vscode-gradle",
-			"vscjava.vscode-java-dependency"
+			"vscjava.vscode-java-dependency",
+			"sonarsource.sonarlint-vscode"
 		]
 	}
 }
